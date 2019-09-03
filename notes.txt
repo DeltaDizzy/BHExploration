@@ -1,0 +1,33 @@
+https://discordapp.com/channels/206181796164009984/409435221977595924/618297080875712512
+
+no return clause
+
+go back to places while also going new places
+
+contract types:
+===============
+unmanned:
+
+sample return (run x experiment and recover it)
+
+flyby
+
+impact
+
+orbiter
+
+landing
+
+Manned:
+landing
+
+orbiter
+
+organization:
+=============
+root
+  system
+    body1
+    body2
+    etc...
+
